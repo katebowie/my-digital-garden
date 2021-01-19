@@ -1,5 +1,5 @@
 ---
-title: Frictionless, sequencing data, and the SRA
+title: Your first note
 ---
 
 ### Welcome!
