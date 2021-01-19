@@ -1,5 +1,5 @@
 ---
-title: Your first seed
+title: Frictionless, sequencing data, and the SRA
 ---
 
 ### Welcome!
