@@ -20,7 +20,7 @@ permalink: /
 
 </div>
 
-
+Some info about [[About|ya gurl]].
 
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). If this template helps you in any way, [consider buying Maxime a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
