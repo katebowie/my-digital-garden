@@ -29,8 +29,28 @@ In no particular order:
 **Has anyone thought of this?**
 --> After googling for a good 10 minutes, the short answer is no. There is a pipeline created on [CyVerse](https://learning.cyverse.org/projects/sra_submission_quickstart/en/latest/step1.html) that goes through creating a SRA "submission package", however a requirement is uploading your data to CyVerse Data Store and I'm not sure this is the same as a data package necessarily.
 
+
+**Let's talk about the metadata for a second** --> When the SRA talks about metadata, they group it together as a *submission*. It looks like one SRA submission (SRA#) is made up  of these parts:
+
+- STUDY (SRP#) 
+- SAMPLE(SRS#)
+- EXPERIMENT(SRX#) 
+- RUN(SRR#)
+
+Experiment and Run objects have the instrument and library information (ie illumina and  250bp paired-end). Each "experiment" is a unique sequencing result for a specific sample... *what about replicates?* well, if they're biological, then they should be separate "experiments".
+
+A Run is essentially information that connects the data files with each experiment. !Paired-end data files must be listed together in the same run!
+
+Data can be submitted using the SRA Portal Wizard, but also certain types are accepted from dbGAP (controlled access data) or GEO (functional gene studies). For this project, I only really care about the SRA Portal Wizard. 
+
+
 **What are the file types for the SRA?**
---> Wow what a great question. 
+--> Wow what a great question. The SRA is a RAW DATA archive. This is important. And the SRAs requires the quality scores for all the data submitted... which is pretty cool actually. Anyway, for my purposes, the SRA accepts FASTQ files (no FASTA since again, wants the quality score).
+
+
+**So, this only gets more complicated**
+--> The SRA has it's own databases that one must upload their metadata and files to, and THEN upload those to the actual SRA. Oy vey. Also just read someone's experience with github (shout out [Rachael](https://rachaellappan.github.io/SRA/)) and they mentioned if you're lucky and all set up, this process will take an entire day... ouch.s
+
 
 
 
