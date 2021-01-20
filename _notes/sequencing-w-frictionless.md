@@ -49,7 +49,7 @@ Data can be submitted using the SRA Portal Wizard, but also certain types are ac
 
 
 **So, this only gets more complicated**
---> The SRA has it's own databases that one must upload their metadata and files to, and THEN upload those to the actual SRA. Oy vey. Also just read someone's experience with github (shout out [Rachael](https://rachaellappan.github.io/SRA/)) and they mentioned if you're lucky and all set up, this process will take an entire day... ouch.s
+--> The SRA has it's own databases that one must upload their metadata and files to, and THEN upload those to the actual SRA. Oy vey. Also just read someone's experience with uploading data on the SRA (shout out [Rachael](https://rachaellappan.github.io/SRA/)) and they mentioned if you're lucky and know what you're doing, this process will take an entire day... ouch.
 
 
 
