@@ -18,6 +18,10 @@ permalink: /
   Literature search for a new project: <span style="font-weight: bold">[[LUTS in men]]</span> 
 </p>
 
+
+<p style="padding: 3em 1em; background: #d0e9b7; border-radius: 2px;">
+  A collection of <span style="font-weight: bold">[[King of the Hill]]</span> screenshots that live rent-free in my head 
+</p>
 </div>
 
 Some info about [[About|ya gurl]].

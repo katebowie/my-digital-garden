@@ -27,7 +27,10 @@ In no particular order:
 4. What are the barriers for frictionless and my (sequencing) data? Can these be broken down into problems, regardless of knowing the solution or not?
 
 **Has anyone thought of this?**
---> After googling for a good 10 minutes, the short answer is no. There is a pipeline created on [CyVerse](https://learning.cyverse.org/projects/sra_submission_quickstart/en/latest/step1.html) that goes through creating a SRA submission package, however a requirement is uploading your data to CyVerse Data Store. 
+--> After googling for a good 10 minutes, the short answer is no. There is a pipeline created on [CyVerse](https://learning.cyverse.org/projects/sra_submission_quickstart/en/latest/step1.html) that goes through creating a SRA "submission package", however a requirement is uploading your data to CyVerse Data Store and I'm not sure this is the same as a data package necessarily.
+
+**What are the file types for the SRA?**
+--> Wow what a great question. 
 
 
 
