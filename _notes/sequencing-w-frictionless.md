@@ -14,7 +14,7 @@ SoOoOo luckily, [Frictionless](https://frictionlessdata.io/reproducible-research
 
 *Now what's the big idea?*
 
-Maybe for my fellowship with Frictionless (oh yeah, that's an important detail), I should help make their packages work with sequencing data! And to make this tool even more useful (I'm *definitely* getting ahead of myself) I should consider compatibility for uploading to public repositories. In general, to publish any of this sequencing data, most (all?) journals requires uploading the sequencing data to some public repository (most commonly the SRA = short read archive). So maybe if I work on this project, I should keep that in mind too... 
+Maybe for my fellowship with Frictionless (oh yeah, that's an important detail), I should help make their packages work with sequencing data! And to make this tool even more useful (I'm *definitely* getting ahead of myself) I should consider compatibility for uploading to public repositories. In general, to publish any of this sequencing data, most (all?) journals requires uploading the sequencing data to some public repository (most commonly the [SRA = short read archive](https://www.ncbi.nlm.nih.gov/sra/docs/submitmeta/#introduction)). So maybe if I work on this project, I should keep that in mind too... 
 
 
 ## Questions that I should probably address
