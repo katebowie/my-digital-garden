@@ -49,7 +49,14 @@ Data can be submitted using the SRA Portal Wizard, but also certain types are ac
 
 
 **So, this only gets more complicated**
---> The SRA has it's own databases that one must upload their metadata and files to, and THEN upload those to the actual SRA. Oy vey. Also just read someone's experience with uploading data on the SRA (shout out [Rachael](https://rachaellappan.github.io/SRA/)) and they mentioned if you're lucky and know what you're doing, this process will take an entire day... ouch.
+--> The SRA has it's own databases that one must upload their metadata and files to, and THEN upload those to the actual SRA. Oy vey. Also just read someone's experience with uploading data on the SRA (shout out [Rachael](https://rachaellappan.github.io/SRA/)) and they mentioned that this process takes a few days... ouch.
+
+But hey, found a [XML](https://www.ncbi.nlm.nih.gov/viewvc/v1/trunk/submit/public-docs/) submission option. This scheme could be helpful for trying to look into this down the line. 
+
+## Next steps??
+Had a nice chat with Lilly Winfree of Frictionless. We decided to first try the Data Package Creator aspect of this idea by finding code to convert FASTQ files into CSVs, then using that. My homework is to also watch this [video call](https://frictionlessdata.io/blog/2020/10/28/october-virtual-hangout/#did-you-miss-our-october-community-call) from a community  data call. 
+
+I'll give another upate later this week. Now to background reading for my [[LUTS in men|MrOs project]].
 
 
 
